@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ND Calc</string>
+    <string name="title_section1">ND Calc</string>
+    <string name="title_section2">Options</string>
+    <string name="action_about">About</string>
+    <string name="shutter">Shutter</string>
+    <string name="filter">Filter</string>
+    <string name="seconds">Seconds</string>
+    <string name="h_m_s">H : M : S</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="vibration">Vibration</string>
+    <string name="speech">Speech</string>
+    <string name="about_nd_calc">About ND Calc</string>
+    <string name="ok">OK</string>
+    <string name="inefficient_message">This is a long duration, it would be more power efficient if you set an event in your calendar!</string>
+    <string name="force_screen_to_stay_on">Force screen to stay on</string>
+    <string name="count_during_powersave">Count during powersave</string>
+    <string name="alert_tone">Alert tone</string>
+
+</resources>
