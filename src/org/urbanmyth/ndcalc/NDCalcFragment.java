@@ -323,7 +323,7 @@ public class NDCalcFragment extends Fragment implements OnClickListener, OnInitL
 				mTimerRunning = false;
 				mStartStopButton.setText(R.string.start);
 				mTimerCallbackHandler.removeCallbacks(mTimerCallbackRunnable); // Stop timer
-				mHoursMinutesSeconds.setTextColor(Color.RED);
+				onSomethingChanged();
 				mRemainingTimeInSeconds = 0;
 				if (mWakeLock.isHeld())
 					mWakeLock.release();
